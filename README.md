@@ -1,2 +1,3 @@
 # latex-sty
-Style files for LaTeX documents
+
+This repository is for storing and maintaining style files for my LaTex documents.
